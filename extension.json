@@ -1,0 +1,9 @@
+{
+  "name": "Solarized Osaka theme",
+  "version": "0.0.1",
+  "authors": [
+    "Vinoth"
+  ],
+  "description": "Solarized Osaka theme inspried from Craftzdog for Zed",
+  "repository": "https://github.com/vknow/solarized-osaka-zed"
+}
