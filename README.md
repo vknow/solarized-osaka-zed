@@ -1,4 +1,4 @@
-# 🏯 Solarized Osaka
+# Solarized Osaka for Zed
 
 One of the [Solarized](https://ethanschoonover.com/solarized/)-inspired dark theme for [Zed](https://zed.dev/).
 
