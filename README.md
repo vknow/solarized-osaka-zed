@@ -1,2 +1,5 @@
-# solarized-osaka-zed
-Solarized Osaka Theme for Zed
+# 🏯 Solarized Osaka
+
+One of the [Solarized](https://ethanschoonover.com/solarized/)-inspired dark theme for [Zed](https://zed.dev/).
+
+Inspired from [Craftdog](https://github.com/craftzdog/solarized-osaka.nvim) ❤️
